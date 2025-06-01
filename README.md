@@ -1,14 +1,13 @@
-<!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Esquema Interactivo: Constitución de Uruguay 1918</title>
+
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <header>
-    <h1>Esquema Interactivo: Constitución de Uruguay 1918</h1>
+    <h1>Constitución de Uruguay 1918</h1>
   </header>
   <main>
     <div class="vertical-timeline">
@@ -178,7 +177,7 @@
   <h2>Repercusiones</h2>
 
 <h3>Reformas Educativas</h3>
-<p><strong>Ubicación:</strong> Paysandú</p>
+<p><strong>Ubicación:</strong>Florida</p>
 <p><strong>📜 Hecho:</strong> Nuevo sistema educativo</p>
 <ul>
   <li>Se consolidó la educación laica, gratuita y obligatoria.</li>
@@ -186,7 +185,7 @@
 </ul>
 
 <h3>Sectores Conservadores</h3>
-<p><strong>Ubicación:</strong> Paysandú</p>
+<p><strong>Ubicación:</strong> Treinta y Tres</p>
 <p><strong>📜 Hecho:</strong> Sectores que se negaban a las reformas</p>
 <ul>
   <li>Regiones donde hubo resistencia conservadora a los cambios de Batlle.</li>
@@ -208,8 +207,3 @@
   <li>Se impulsó la industrialización y la modernización del país.</li>
   <li>El Estado intervino más en la economía (ferrocarriles, energía, etc.).</li>
 </ul>
-      </ul>
-    </div>
-  </main>
-</body>
-</html>
