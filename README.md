@@ -1,1 +1,215 @@
-# Constitucion-movil
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Esquema Interactivo: Constitución de Uruguay 1918</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Esquema Interactivo: Constitución de Uruguay 1918</h1>
+  </header>
+  <main>
+    <div class="vertical-timeline">
+      <h3>Línea de tiempo</h3>
+      <ul class="timeline-list">
+        <!-- Ítem 1 -->
+        <li class="timeline-item">
+          <div class="timeline-header">
+            <span class="timeline-icon">⚖</span>
+            <div>
+              <strong>1830</strong>
+              <p>Constitución de 1830</p>
+            </div>
+          </div>
+          <div class="timeline-content">
+            <p><strong>La Constitución de 1830</strong> (primera del país)</p>
+            <ul>
+              <li>Fue la primera constitución uruguaya, muy influenciada por modelos europeos y norteamericanos.</li>
+              <li>Establecía un régimen presidencialista fuerte.</li>
+              <li>No contemplaba derechos sociales ni laborales.</li>
+              <li>Funcionó en un contexto de inestabilidad política, guerras civiles y enfrentamientos entre blancos y colorados.</li>
+            </ul>
+          </div>
+        </li>
+        <!-- Ítem 2 -->
+        <li class="timeline-item">
+          <div class="timeline-header">
+            <span class="timeline-icon">🩸</span>
+            <div>
+              <strong>1830-1904</strong>
+              <p>Inestabilidad política</p>
+            </div>
+          </div>
+          <div class="timeline-content">
+            <p><strong>Inestabilidad política y guerras civiles</strong></p>
+            <ul>
+              <li>Durante el siglo XIX, Uruguay vivió muchas guerras internas, especialmente entre el Partido Colorado y el Partido Nacional (Blanco).</li>
+              <li>Hubo golpes de Estado, caudillismo, y el país no lograba una paz duradera ni estabilidad.</li>
+            </ul>
+          </div>
+        </li>
+        <!-- Ítem 3 -->
+        <li class="timeline-item">
+          <div class="timeline-header">
+            <span class="timeline-icon">🗳</span>
+            <div>
+              <strong>Principios del siglo XX</strong>
+              <p>Reformas de Batlle y Ordóñez</p>
+            </div>
+          </div>
+          <div class="timeline-content">
+            <p><strong>Reformas de José Batlle y Ordóñez</strong></p>
+            <ul>
+              <li>Batlle fue presidente en dos periodos (1903-1907 y 1911-1915).</li>
+              <li>Impulsó un modelo más moderno, democrático y social:</li>
+              <ul>
+                <li>Jornada laboral de 8 horas</li>
+                <li>Derecho de huelga</li>
+                <li>Protección al trabajador</li>
+                <li>Educación laica, gratuita y obligatoria</li>
+              </ul>
+              <li>Criticaba el presidencialismo fuerte y quería dividir el poder ejecutivo para evitar abusos.</li>
+            </ul>
+          </div>
+        </li>
+        <!-- Ítem 4 -->
+        <li class="timeline-item">
+          <div class="timeline-header">
+            <span class="timeline-icon">🧠</span>
+            <div>
+              <strong>Principios del siglo XX</strong>
+              <p>El batllismo y el reformismo</p>
+            </div>
+          </div>
+          <div class="timeline-content">
+            <p><strong>Ideas nuevas: el batllismo y el reformismo</strong></p>
+            <ul>
+              <li>El batllismo trajo ideas progresistas, como:</li>
+              <ul>
+                <li>Participación del Estado en la economía (estatismo)</li>
+                <li>Protección de las clases trabajadoras</li>
+                <li>Separación Iglesia-Estado</li>
+              </ul>
+              <li>Estas ideas ganaron fuerza en la sociedad, sobre todo en Montevideo.</li>
+            </ul>
+          </div>
+        </li>
+        <!-- Ítem 5 -->
+        <li class="timeline-item">
+          <div class="timeline-header">
+            <span class="timeline-icon">📜</span>
+            <div>
+              <strong>1916-1918</strong>
+              <p>Reforma constitucional</p>
+            </div>
+          </div>
+          <div class="timeline-content">
+            <p><strong>Intentos fallidos de reforma constitucional</strong></p>
+            <ul>
+              <li>Ya desde 1916 se buscaba cambiar la Constitución, pero no se lograba un acuerdo.</li>
+              <li>Finalmente, en 1917 se convocó un plebiscito, y la nueva Constitución fue aprobada.</li>
+              <li>Entró en vigencia en 1918.</li>
+            </ul>
+          </div>
+        </li>
+      </ul>
+    </div>
+    <div class="antecedentes-info">
+      <h2>Revolución de las Lanzas (1870-1872)</h2>
+      <p><strong>Ubicación:</strong> Cerro Largo (frontera con Brasil)</p>
+      <p><strong>📜 Contexto:</strong></p>
+      <ul>
+        <li>Uruguay post-Guerra Grande (1839-1851) con tensiones entre blancos (Timoteo Aparicio) y colorados (gobierno centralista).</li>
+        <li>El interior rural vs. Montevideo urbano.</li>
+      </ul>
+      <p><strong>💥 Hecho clave:</strong></p>
+      <ul>
+        <li>Los blancos del interior exigieron mayor autonomía departamental y representación política, semilla del posterior sistema colegiado de 1918.</li>
+      </ul>
+      <h2>Pacto de la Cruz (1872)</h2>
+      <p><strong>Ubicación:</strong> Montevideo (Barrio de la Cruz)</p>
+      <p><strong>📜 Contexto:</strong></p>
+      <ul>
+        <li>Acuerdo entre el gobierno colorado (Lorenzo Batlle) y los revolucionarios blancos (Timoteo Aparicio).</li>
+        <li>Fin de la Revolución de las Lanzas.</li>
+      </ul>
+      <p><strong>💥 Hecho clave:</strong></p>
+      <ul>
+        <li>Por primera vez, se reconoció la coparticipación política de los blancos en gobiernos departamentales, antecedente directo del colegiado de 1918.</li>
+        <li>Se evitó la división territorial del país.</li>
+      </ul>
+      <h2>Reforma Constitucional (1917)</h2>
+      <p><strong>Ubicación:</strong> Palacio Legislativo, Montevideo</p>
+      <p><strong>📜 Contexto:</strong></p>
+      <ul>
+        <li>Presión de batllistas y nacionalistas para modernizar el Estado.</li>
+        <li>Crisis política por el centralismo y la influencia de la Primera Guerra Mundial.</li>
+      </ul>
+      <p><strong>💥 Hecho clave:</strong></p>
+      <ul>
+        <li>Introdujo el sistema colegiado (9 ministros, 6 del partido mayoritario y 3 del minoritario), ensayo del modelo de 1918.</li>
+        <li>Separación Iglesia-Estado y primeros derechos laborales.</li>
+        <h2>Constitución de 1918</h2>
+<h3>Promulgación (25 de octubre, 1918)</h3>
+<p><strong>Ubicación:</strong> Palacio Legislativo, Montevideo</p>
+<p><strong>📜 Hecho:</strong> Se aprobó la nueva Constitución que estableció:</p>
+<ul>
+  <li>Ejecutivo colegiado (9 miembros: 6 del partido mayoritario, 3 del minoritario).</li>
+  <li>Separación Iglesia-Estado (Estado laico).</li>
+  <li>Voto secreto y derechos laborales.</li>
+</ul>
+
+<h3>Impacto en el Interior (1918)</h3>
+<p><strong>Ubicación:</strong> Paysandú</p>
+<p><strong>📜 Hecho:</strong> Efectos Semi-Inmediatos de la constitución:</p>
+<ul>
+  <li>Mayor representación política para departamentos como Paysandú, Salto y Rivera.</li>
+  <li>Descontento en sectores conservadores por la secularización.</li>
+</ul>
+
+<h3>Cambios en la Frontera (1918)</h3>
+<p><strong>Ubicación:</strong> Rivera</p>
+<p><strong>📜 Hecho:</strong> La nueva Constitución:</p>
+<ul>
+  <li>Fortalecimiento de la identidad nacional en zonas fronterizas.</li>
+  <li>Nuevas políticas migratorias para evitar conflictos con Brasil.</li>
+  <h2>Repercusiones</h2>
+
+<h3>Reformas Educativas</h3>
+<p><strong>Ubicación:</strong> Paysandú</p>
+<p><strong>📜 Hecho:</strong> Nuevo sistema educativo</p>
+<ul>
+  <li>Se consolidó la educación laica, gratuita y obligatoria.</li>
+  <li>La separación Iglesia-Estado tuvo un fuerte impacto en escuelas y la vida cotidiana.</li>
+</ul>
+
+<h3>Sectores Conservadores</h3>
+<p><strong>Ubicación:</strong> Paysandú</p>
+<p><strong>📜 Hecho:</strong> Sectores que se negaban a las reformas</p>
+<ul>
+  <li>Regiones donde hubo resistencia conservadora a los cambios de Batlle.</li>
+  <li>La influencia de la Iglesia y sectores blancos era más fuerte.</li>
+</ul>
+
+<h3>Mejora de estilo de vida de los trabajadores</h3>
+<p><strong>Ubicación:</strong> Paysandú</p>
+<p><strong>📜 Hecho:</strong> Nuevas normas laborales</p>
+<ul>
+  <li>Las nuevas leyes laborales empezaron a proteger a los trabajadores del interior.</li>
+  <li>La jornada de 8 horas mejoró las condiciones de vida de obreros rurales e industriales.</li>
+</ul>
+
+<h3>Industrialización y economía</h3>
+<p><strong>Ubicación:</strong> Tacuarembó</p>
+<p><strong>📜 Hecho:</strong> Industria y economía</p>
+<ul>
+  <li>Se impulsó la industrialización y la modernización del país.</li>
+  <li>El Estado intervino más en la economía (ferrocarriles, energía, etc.).</li>
+</ul>
+      </ul>
+    </div>
+  </main>
+</body>
+</html>
