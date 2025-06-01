@@ -207,3 +207,13 @@
   <li>Se impulsó la industrialización y la modernización del país.</li>
   <li>El Estado intervino más en la economía (ferrocarriles, energía, etc.).</li>
 </ul>
+
+<div class="credits">
+  <h2 style="color: #0057a8; border-bottom: 2px solid #0057a8; padding-bottom: 10px;">Créditos</h2>
+  <p><strong>Matias</strong> - Programación de ambas páginas<br> - Diseño de ambas páginas</p>
+  <p><strong>Solange</strong> - Búsqueda de información<br> - Clasificación de información</p>
+  <p><strong>Agustina</strong> - Búsqueda de información<br> - Clasificación de información</p>
+  <p><strong>Elias</strong> - Audios agregados</p>
+  <p><strong>Thiago</strong> - Nada</p>
+  <p><strong>Musica de creditos</strong> - https://www.youtube.com/watch?v=dQw4w9WgXcQ </p>
+</div>
