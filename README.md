@@ -215,5 +215,5 @@
   <p><strong>Agustina</strong> - Búsqueda de información<br> - Clasificación de información</p>
   <p><strong>Elias</strong> - Audios agregados</p>
   <p><strong>Thiago</strong> - Nada</p>
-  <p><strong>Musica de creditos</strong> - https://www.youtube.com/watch?v=dQw4w9WgXcQ </p>
+ <p><strong>Música para los créditos:</strong> <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">Ver video</a></p>
 </div>
